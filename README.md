@@ -111,8 +111,8 @@ RSA-ENCRYPTION/
 
 ## 👨‍🎓 Student Info
 
-**Name:** Kolluru Sai Abhiram  
-**Reg. No.:** 23BCE20342  
+**Name:** K. Rama Ganesh  
+**Reg. No.:** 23BCE237277  
 **University:** VIT-AP University
 
 
