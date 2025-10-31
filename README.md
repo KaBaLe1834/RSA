@@ -7,8 +7,8 @@ A simple yet powerful RSA Encryption-Decryption tool built with Python and Tkint
 **Encryption Using RSA Algorithm**
 
 ## 👨‍💻 Developed By
-**Kolluru Sai Abhiram**  
-**Reg. No.: 23BCE20342**  
+**K. Rama Ganesh**  
+**Reg. No.: 23BCE7277**  
 **VIT-AP University**
 
 
